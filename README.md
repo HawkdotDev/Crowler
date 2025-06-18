@@ -4,8 +4,6 @@
 
 It provides deep technical SEO analysis, keyword audits, performance scoring, link mapping, accessibility checks, and AI-assisted recommendations — all in a sleek, cross-platform desktop app.
 
----
-
 ## ✨ Features
 
 - 🔍 Full-site crawling with JavaScript rendering (via Playwright)
