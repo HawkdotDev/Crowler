@@ -20,8 +20,6 @@ It provides deep technical SEO analysis, keyword audits, performance scoring, li
 - 📈 Timeline-based scoring & improvement tracking
 - ✅ Smart to-do list with severity and fix suggestions
 
----
-
 ## 🛠️ Tech Stack
 
 | Layer           | Technology                                |
@@ -33,8 +31,6 @@ It provides deep technical SEO analysis, keyword audits, performance scoring, li
 | Storage         | SQLite (via `better-sqlite3`)              |
 | Exporting       | jsPDF, csv-writer                          |
 | APIs            | Google Search Console, Google Analytics    |
-
----
 
 ## 🚀 Getting Started (Bun)
 
@@ -53,8 +49,6 @@ bun run dev
 > ⚠️ Playwright will install browser binaries if not already installed. You may need to run:
 > `bunx playwright install`
 
----
-
 ## 📦 Build for Distribution
 
 ```bash
@@ -62,8 +56,6 @@ bun run build
 ```
 
 > Uses `electron-builder` under the hood for Mac, Windows, and Linux packaging.
-
----
 
 ## 📚 Scripts (via Bun)
 
@@ -73,8 +65,6 @@ bun run lint       # Lint code
 bun run format     # Format code with Prettier
 bun run build      # Build the app for production
 ```
-
----
 
 ## 📂 Project Structure
 
@@ -92,8 +82,6 @@ crowler/
 └── public/
 ```
 
----
-
 ## 🤝 Contributing
 
 Crowler is open-source and welcomes contributions!
@@ -109,20 +97,8 @@ bun run lint
 
 > See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 
----
-
-## 📄 License
-
-MIT © 2025 Dwaipayan Dutta
-
----
-
 ## 🧠 Philosophy
 
 Crowler is built to empower developers, marketers, and analysts with the **freedom** and **depth** of a Screaming Frog-style engine — but in an open, extensible, and beautifully visualized format.
 
----
-
 ### 🐾 Crawl. Audit. Improve. With **Crowler**
-
-```
